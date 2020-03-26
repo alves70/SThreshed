@@ -1,0 +1,45 @@
+import java.util.Scanner;
+
+public class Trabalho {
+
+	public static void main(String[] args)
+	
+	{
+		Scanner sc = new Scanner(System.in);
+		int x = sc.nextInt();
+		int y = sc.nextInt();
+
+		
+
+		while ( x > 0 ) {
+			while ( x > 0 ) {
+				System.out.println("primeiro");
+				
+			}}
+		while ( x < 0 ) {
+			while ( y > 0 ) {
+				System.out.println("segundo");
+			}}
+		while ( x < 0 ) {
+			while ( y < 0 ) {
+				System.out.println("terceiro");
+			}}
+		while ( x > 0 ) {
+			while ( y < 0 ) {
+				System.out.println("quarto");
+			}}
+		while ( x == 0 ) {
+				System.out.println("");
+			}
+		while ( y == 0 ) {
+			System.out.println("");
+				
+		}
+		
+		
+		
+		sc.close();
+		
+}
+	
+}
